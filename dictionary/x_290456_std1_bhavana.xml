@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="BHAVANA" max_length="40" name="x_290456_std1_bhavana" type="collection">
+        <element label="class" max_length="40" name="class" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

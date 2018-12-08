@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type>
+        <action_type_parent/>
+        <comment>can us the help</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="myflow">aab39c97db02e300b1a49006db9619f6</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 10:40:31</sys_created_on>
+        <sys_id>0102f49bdb42e300b1a49006db9619e5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="std1" source="x_290456_std1">1e4c0fb1db422300b1a49006db961921</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="std1">1e4c0fb1db422300b1a49006db961921</sys_scope>
+        <sys_update_name>sys_hub_action_instance_0102f49bdb42e300b1a49006db9619e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 10:40:31</sys_updated_on>
+        <ui_id>da26406f-650a-4cf8-bb5f-01f9de040dc7</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=0102f49bdb42e300b1a49006db9619e5"/>
+    <sys_element_mapping action="delete_multiple" query="id=0102f49bdb42e300b1a49006db9619e5"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>0102f49bdb42e300b1a49006db9619e5</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-03 10:40:31</sys_created_on>
+        <sys_id>d502f49bdb42e300b1a49006db9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-03 10:40:31</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>bhavana.tadepalli@gmail.com{{Created or Updated_1.current}}{{Created or Updated_1.run_start_time}}</value>
+    </sys_element_mapping>
+</record_update>

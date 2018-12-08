@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2018-12-08 11:31:05">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-01 10:31:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>14bc566adb8a6300b1a49006db96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>catalog_storage</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="std1" source="x_290456_std1">1e4c0fb1db422300b1a49006db961921</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="std1">1e4c0fb1db422300b1a49006db961921</sys_scope>
+        <sys_update_name>sys_portal_page_14bc566adb8a6300b1a49006db96194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-01 10:31:08</sys_updated_on>
+        <title>catalog_storage</title>
+        <user/>
+        <view>catalog_storage</view>
+    </sys_portal_page>
+</record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="clg" max_length="40" name="x_290456_std1_clg" type="collection">
+        <element label="age" max_length="40" name="age" type="integer"/>
+        <element label="dep" max_length="50" name="dep" type="string"/>
+        <element label="std id" max_length="50" name="std_id" type="string"/>
+        <element label="std name" max_length="50" name="std_name" type="string"/>
+        <element choice="1" label="sub" max_length="50" name="sub" type="choice">
+            <choice/>
+        </element>
+        <element label="New Date/Time" max_length="40" name="u_glide_date_time_1" type="glide_date_time"/>
+    </element>
+</database>
